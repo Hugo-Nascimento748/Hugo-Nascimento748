@@ -1,16 +1,36 @@
-## Hi there 👋
+## Olá Devs!
+### Meu nome é Hugo
+Sou um estudante de **Ciência da Computação (3° Semestre)** com foco em desenvolvimento backend.
 
-<!--
-**Hugo-Nascimento748/Hugo-Nascimento748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho habilidade com estruturação e arquitetura de software, com boa lógica de programação utilizando o modelo de **orientação a objetos.**
 
-Here are some ideas to get you started:
+### Linguagens Conhecidas: 
+- C# (.NET)
+- Java
+- Python
+- Typescript
+- C (Iniciando agora)
+- HTML5
+- CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks Mais Utilizados:
+- EntityFrameworkCore 
+- NodeJs
+
+### Banco de Dados:
+- Microsoft SQL
+- SQLite
+- MySql
+- PostgreSql
+
+## Principais Projetos Pessoais e Acadêmicos
+
+- ### Portfólio Web:
+
+Solução feita para exibir projetos e estudos desenvolvidos por mim 
+
+**Tecnologias:**
+1. React(Vite)
+2. TailWind CSS.
+
+[Meu Portfólio](https://hugo-nascimento748.github.io/)
