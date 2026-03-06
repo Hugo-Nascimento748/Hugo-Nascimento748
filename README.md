@@ -27,11 +27,12 @@ Tenho habilidade com estruturação e arquitetura de software, com boa lógica d
 
 - ### Portfólio Web:
 
-Solução feita para exibir projetos e estudos desenvolvidos por mim 
+Solução feita para exibir projetos e estudos desenvolvidos por mim utilizando uma Page no GitHub para subir o site no ar.
 
 **Tecnologias:**
 1. React (Vite)
 2. TailWind CSS.
+3. JavaScript
 
 [Meu Portfólio](https://hugo-nascimento748.github.io/)
 
@@ -41,7 +42,7 @@ Solução feita para exibir projetos e estudos desenvolvidos por mim
 O SchedulerPro é uma plataforma completa de agendamento e gestão para prestadores de serviços. O sistema combina um backend robusto em .NET 9 com um dashboard administrativo moderno e responsivo construído em Tailwind CSS.
 
 **Tecnologias:**
-1. .NET 9 SDK
+1. C# (.NET)
 2. Entity Framework Core
 3. SQLite (Banco de dados relacional)
 4. System.Text.Json (Gerenciamento de ciclos e nomenclatura)
