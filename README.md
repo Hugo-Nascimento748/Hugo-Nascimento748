@@ -71,8 +71,9 @@ Plataforma de **agendamento e gestão para prestadores de serviços** com backen
 
 # 📫 Contato
 
-💼 LinkedIn  
-🌐 Portfólio  
+💼 [LinkedIn](https://www.linkedin.com/in/hugo-nascimento-gon%C3%A7alves-973b29362/)
+
+🌐 [Portfólio](https://hugo-nascimento748.github.io/)  
 
 ---
 
