@@ -1,4 +1,6 @@
-![Banner](BannerGithub.png)
+<p align="center">
+  <img src="BannerGithub2.png" />
+</p>
 
 # 👋 Olá, eu sou Hugo Nascimento
 
