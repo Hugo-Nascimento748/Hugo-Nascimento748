@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação (3º semestre)**  
 💻 Focado em **Desenvolvimento Backend**  
-🚀 Buscando oportunidades para **estágio em desenvolvimento**
+🚀 Buscando minha primeira oportunidade de **estágio**
 
 ---
 
