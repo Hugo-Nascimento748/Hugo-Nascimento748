@@ -1,3 +1,5 @@
+![Banner](BannerGithub.png)
+
 # 👋 Olá, eu sou Hugo Nascimento
 
 🎓 Estudante de **Ciência da Computação (3º semestre)**  
