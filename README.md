@@ -17,6 +17,8 @@
 
 ### ⚙️ Frameworks
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,6 +45,20 @@ Site desenvolvido para apresentar meus projetos e estudos.
 - JavaScript
 
 🔗 https://hugo-nascimento748.github.io/
+
+---
+## 🚀 LinkedInMonitor
+
+Um **monitor inteligente de publicações do LinkedIn** desenvolvido em .NET 8. O sistema busca oportunidades com base em palavras-chave, filtra duplicatas e envia notificações em tempo real via Telegram.
+
+**Tecnologias**
+
+- C# (.NET 8)
+- Clean Architecture 
+- SQLite com Entity Framework Core
+- SerpApi (Google Search Engine) e Telegram Bot API
+
+🔗 https://github.com/Hugo-Nascimento748/LinkedInMonitor
 
 ---
 
