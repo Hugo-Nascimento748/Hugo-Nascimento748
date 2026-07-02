@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Hugo Nascimento
 
-🎓 Estudante de **Ciência da Computação (3º semestre)**  
+🎓 Estudante de **Ciência da Computação (4º semestre)**  
 💻 Focado em **Desenvolvimento Backend**  
 🚀 Buscando minha primeira oportunidade de **estágio**
 
