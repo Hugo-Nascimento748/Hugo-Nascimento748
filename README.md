@@ -47,6 +47,12 @@ Sistema **SaaS de gestão financeira para barbearias**, construído como PWA mob
 
 **Tecnologias:** React · TypeScript · TailwindCSS · Supabase (PostgreSQL, RLS) · Framer Motion
 
+🔗 **Demo:** [barber-manager-five.vercel.app](https://barber-manager-five.vercel.app/)
+
+🔑 **Acesso para teste** (conta de demonstração, fique à vontade para explorar):
+- **Usuário:** `teste@gmail.com`
+- **Senha:** `teste1234`
+
 ---
 
 ### 🚀 LinkedInMonitor
